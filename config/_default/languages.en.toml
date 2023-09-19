@@ -3,10 +3,11 @@
 title = "My awesome website"
 
 [author]
-name = "My name"
-#image = "img/author.jpg"
+name = "Sourabh Nair"
+image = "img/author.jpg"
 headline = "A generally awesome human"
-bio = "A little bit about me"
+bio = "DevOps Engineer"
 links = [
   { twitter = "https://twitter.com/username" }
 ]
+
