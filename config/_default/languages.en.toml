@@ -4,7 +4,7 @@ title = "My awesome website"
 
 [author]
 name = "My name"
-image = "img/author.jpg"
+#image = "img/author.jpg"
 headline = "A generally awesome human"
 bio = "A little bit about me"
 links = [
