@@ -1,0 +1,5 @@
+# config/_default/config.toml
+
+baseURL = "https://code22.in/"
+languageCode = "en"
+
