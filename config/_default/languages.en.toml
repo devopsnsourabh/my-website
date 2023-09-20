@@ -5,7 +5,7 @@ title = "Sourabh Nair"
 [author]
 name = "Sourabh Nair"
 image = "img/author.jpg"
-headline = "A generally awesome human"
+headline = "DevOps Engineer"
 bio = "DevOps Engineer"
 links = [
   { email = "mailto:email@code22.in" },
