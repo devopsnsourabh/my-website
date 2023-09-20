@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/w0RnjEyEoZk/0.jpg)](http://www.youtube.com/watch?v=w0RnjEyEoZk "Video Title")
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
