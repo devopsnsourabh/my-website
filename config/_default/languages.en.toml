@@ -8,6 +8,9 @@ image = "img/author.jpg"
 headline = "A generally awesome human"
 bio = "DevOps Engineer"
 links = [
-  { twitter = "https://twitter.com/username" }
+  { email = "mailto:email@code22.in" },
+  { link = "https://code22.in/" },
+  { github = "https://github.com/devopsnsourabh" },
+  { telegram = "https://t.me/username" },
 ]
 
