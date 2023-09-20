@@ -1,4 +1,4 @@
 # config/_default/params.toml
 
-colorScheme = "congo"
+colorScheme = "Slate"
 homepage.layout = "profile"
